@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Heldingar
-- Just an occasinalyìly programmer
+- Just an occasionally programmer
 - Probably gonna become a NEET
 <!---
 Heldingar/Heldingar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
